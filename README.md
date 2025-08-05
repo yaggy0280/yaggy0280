@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yaggy0280 👋
 
-<!--
-**yaggy0280/yaggy0280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 15-year-old developer currently studying at **Colegio Agustiniano Floridablanca**, passionate about coding and cybersecurity.
 
-Here are some ideas to get you started:
+🛡️ Certified in:
+- **Python** (Expert level)
+- **Linux & Cybersecurity**
+- **HTML & Programming Basics**  
+_Certified by SENA and Coomfenalco_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently learning:
+- JavaScript
+- Git & GitHub
+- Databases basics
+
+📫 Contact me at: yaggy0280@example.com
+
+⚡ Fun fact: Using internet since 2013 — I also have a **Cambridge-certified C1 level in English**
